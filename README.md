@@ -241,5 +241,3 @@ Corresponding Authors:
 Rashmi Singh (rsingh7@amity.edu)
 Saifullah Khalid (skhalid.sudan@yahoo.com)
 
-# HFSRS
-Integrating Hesitant Fuzzy Soft Set with Rough Sets
